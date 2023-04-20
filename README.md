@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Shayne (He/Him)! I'm the Tech Lead & Engineering Manager of Volunteer Training @ Crisis Text Line. You can also find me over on [Polywork](https://www.polywork.com/shaynemartin). 
+I'm Shayne (He/Him)! I'm a Staff Software Engineer @ [Crisis Text Line](https://crisistextline.org) supporting people in crisis. You can also find me over on [Polywork](https://www.polywork.com/shaynemartin). 
 
-I am currently working on an integrated training environment for Crisis Counselors at Crisis Text Line. Our intent is to improve volunteer training and their confidence on the platform, resulting in a better experience for texters. I care deeply about **people** and how systems and technology affect them. My goal is to create a positive and equitable future. Black and Trans Lives Matter! ✊
+I care deeply about **people** and how systems and technology affect them. My goal is for my work to create a positive and equitable future. Black and Trans Lives Matter! ✊
 
 <!--
 **shaynemartin91/shaynemartin91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
