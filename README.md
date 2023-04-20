@@ -4,7 +4,7 @@ I'm Shayne (He/Him)! I'm a Staff Software Engineer @ [Crisis Text Line](https://
 
 I care deeply about **people** and how systems and technology affect them. My goal is for my work to create a positive and equitable future. Black and Trans Lives Matter! ✊
 
-I like to code, hang out with my kids, pretend to know what I'm doing while playing Destiny 2, scroll endlessly through TikTok, cry at every Disney movie, and hyper-fixate on a new hobby every month. 
+I like to code, hang out with my kids, pretend to know what I'm doing while playing Destiny 2, watch bunnies in my backyard, scroll endlessly through TikTok, cry at every Disney movie, and hyper-fixate on a new hobby every month. 
 
 <!--
 **shaynemartin91/shaynemartin91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
